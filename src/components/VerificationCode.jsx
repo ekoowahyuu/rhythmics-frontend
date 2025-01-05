@@ -156,7 +156,7 @@ const VerificationCode = () => {
         </div>
 
         {/* Right Section */}
-        <div className="bg-[#cad7fdb3] rounded-2xl flex justify-center items-center w-1/3 h-3/4 mx-auto my-auto">
+        <div className="rounded-2xl flex justify-center items-center w-1/3 h-3/4 mx-auto my-auto">
           <img
             src={VerifCode}
             alt="Verification Code"
