@@ -51,13 +51,13 @@ const SideBar = ({ onLogout }) => {
           <img src={OrderIcon} alt="Order Icon" className="w-6 h-6 mr-3" />
           Order
         </Link>
-        {/* <Link
-                    to="/my-studio" // Ganti my-venue menjadi my-studio
-                    className="font-semibold flex items-center px-5 py-2 text-gray-700 bg-gray-100 rounded-lg hover:bg-gray-200"
-                >
-                    <img src={AddStudio} alt="Studio Icon" className="w-6 h-6 mr-3" />
-                    Studio
-                </Link> */}
+        <Link
+          to="/my-studio" // Ganti my-venue menjadi my-studio
+          className="font-semibold flex items-center px-5 py-2 text-gray-700 bg-gray-100 rounded-lg hover:bg-gray-200"
+        >
+          <img src={AddStudio} alt="Studio Icon" className="w-6 h-6 mr-3" />
+          Studio
+        </Link>
       </div>
 
       <h1 className="text-xl font-bold text-gray-400 text-start mt-28 mb-6 ml-3">

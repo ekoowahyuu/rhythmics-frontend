@@ -3,8 +3,8 @@ import eko from "../assets/eko.jpg";
 import doni from "../assets/doni.jpg";
 import hafiz from "../assets/hafiz.jpg";
 import gatien from "../assets/gatien.jpg";
-import adhi from "../assets/eko.jpg";
-import kayla from "../assets/eko.jpg";
+import adhi from "../assets/adhi.jpg";
+import kayla from "../assets/kayla.jpg";
 
 const AboutUs = () => {
   return (
